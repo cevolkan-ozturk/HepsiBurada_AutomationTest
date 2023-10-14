@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Test_Add_Product_To_Cart
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.737 s <<< FAILURE! - in Test_Add_Product_To_Cart
+Test_Add_Product_To_Cart  Time elapsed: 0.737 s  <<< ERROR!
+org.openqa.selenium.remote.http.ConnectionFailedException: 
+Unable to establish websocket connection to http://localhost:58691/devtools/browser/8c95f153-8406-4b35-832e-c12d7e773d97
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: ChromeDriver
+

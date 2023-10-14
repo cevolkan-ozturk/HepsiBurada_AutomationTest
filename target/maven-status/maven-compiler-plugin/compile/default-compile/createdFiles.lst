@@ -1,0 +1,6 @@
+pages\BasePage.class
+pages\CardPage.class
+pages\ProductsPage.class
+pages\SearchBox.class
+pages\ProductDetailPage.class
+pages\HomePage.class
